@@ -1,0 +1,9 @@
+[package]
+name = "ulist"
+version = "0.1.0"
+edition = "2021"
+authors = ["shaoxi2010 shaoxi2010@qq.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
